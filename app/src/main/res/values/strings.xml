@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MarvelBank</string>
+    <string name="descricao_bank">MARVEL BANK O MELHOR BANCO DIGITAL NACIONAL</string>
+    <string name="nome_banco">MARVEL BANK</string>
+    <string name="sigla_banco">M</string>
+    <string name="welcome">Bem vindo ao seu banco digital</string>
+    <string name="login">Login</string>
+    <string name="senha">Senha</string>
+
+</resources>
